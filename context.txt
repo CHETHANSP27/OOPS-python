@@ -22,7 +22,7 @@
     > Why Inheritance
     > What gets inherited? - Constructor, Non private attributes and non private methods
     > Constructor overloading and method overloading
-    > Super keyword(can be used only inside class, can not access variables/attributes, used only inside child class)
+    > Super keyword(can be used only inside classes, can not access variables/attributes, used only inside child class to access parent class methods)
     > Types of Inheritance
         a. Single
         b. Multilevel

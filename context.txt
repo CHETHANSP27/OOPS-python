@@ -10,7 +10,23 @@
 
 
 5. End to end Project (chatbook class)
+    > function vs method  
+    > magic method or dunder method
+    > you can create attribute outside class as well
     > encapsulation
     > getter and setter
     > static method
     
+    
+6. Inheritance
+    > Why Inheritance
+    > What gets inherited? - Constructor, Non private attributes and non private methods
+    > Constructor overloading and method overloading
+    > Super keyword(can be used only inside class, can not access variables/attributes, used only inside child class)
+    > Types of Inheritance
+        a. Single
+        b. Multilevel
+        c. Hierarchical
+        d. Multiple(Diamond)
+        e. Hybrid
+ 
